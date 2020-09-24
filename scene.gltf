@@ -1,0 +1,1912 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4497,
+      "max": [
+        62.372482299804688,
+        -106.54308319091797,
+        1629.9302978515625
+      ],
+      "min": [
+        -2.3423030376434326,
+        -177.32221984863281,
+        1520.779296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 53964,
+      "componentType": 5126,
+      "count": 4497,
+      "max": [
+        0.99963182210922241,
+        0.99979865550994873,
+        0.99940115213394165
+      ],
+      "min": [
+        -0.9999881386756897,
+        -0.99997645616531372,
+        -0.99930596351623535
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4497,
+      "max": [
+        0.99607843160629272,
+        0.93725490570068359,
+        0.75294119119644165,
+        1
+      ],
+      "min": [
+        0.9686274528503418,
+        0.84705883264541626,
+        0.45882353186607361,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 23670,
+      "max": [
+        4496
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 107928,
+      "componentType": 5126,
+      "count": 910,
+      "max": [
+        16.653982162475586,
+        -136.68788146972656,
+        1497.170166015625
+      ],
+      "min": [
+        2.5110700130462646,
+        -166.51866149902344,
+        1483.7227783203125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 118848,
+      "componentType": 5126,
+      "count": 910,
+      "max": [
+        0.99912452697753906,
+        0.9688454270362854,
+        0.99971282482147217
+      ],
+      "min": [
+        -0.99431312084197998,
+        -0.99787634611129761,
+        -0.9998939037322998
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71952,
+      "componentType": 5126,
+      "count": 910,
+      "max": [
+        0.30588236451148987,
+        0.83529412746429443,
+        0.59215688705444336,
+        1
+      ],
+      "min": [
+        0.29019609093666077,
+        0.81960785388946533,
+        0.57647061347961426,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 94680,
+      "componentType": 5125,
+      "count": 5364,
+      "max": [
+        909
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 129768,
+      "componentType": 5126,
+      "count": 406,
+      "max": [
+        6.8980989456176758,
+        -172.35481262207031,
+        1532.8677978515625
+      ],
+      "min": [
+        -2.3439228534698486,
+        -189.25981140136719,
+        1501.9852294921875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 134640,
+      "componentType": 5126,
+      "count": 406,
+      "max": [
+        0.99283146858215332,
+        0.99952524900436401,
+        0.99684101343154907
+      ],
+      "min": [
+        -0.99965828657150269,
+        -0.98292726278305054,
+        -0.94376200437545776
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 86512,
+      "componentType": 5126,
+      "count": 406,
+      "max": [
+        0.73333334922790527,
+        0.80000001192092896,
+        0.99607843160629272,
+        1
+      ],
+      "min": [
+        0.43529412150382996,
+        0.56862747669219971,
+        0.92941176891326904,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 116136,
+      "componentType": 5125,
+      "count": 2424,
+      "max": [
+        405
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 139512,
+      "componentType": 5126,
+      "count": 9539,
+      "max": [
+        74.738052368164062,
+        14.971697807312012,
+        1636.2757568359375
+      ],
+      "min": [
+        -7.8512411117553711,
+        -131.66116333007812,
+        1516.6951904296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 253980,
+      "componentType": 5126,
+      "count": 9539,
+      "max": [
+        0.99964797496795654,
+        0.99990195035934448,
+        0.99954307079315186
+      ],
+      "min": [
+        -0.99995917081832886,
+        -0.99988746643066406,
+        -0.99983543157577515
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 93008,
+      "componentType": 5126,
+      "count": 9539,
+      "max": [
+        0.95686274766921997,
+        0.83921569585800171,
+        0.92549020051956177,
+        1
+      ],
+      "min": [
+        0.60784316062927246,
+        0.64313727617263794,
+        0.76470589637756348,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 125832,
+      "componentType": 5125,
+      "count": 54243,
+      "max": [
+        9538
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 368448,
+      "componentType": 5126,
+      "count": 9143,
+      "max": [
+        72.350364685058594,
+        -34.842967987060547,
+        1552.2869873046875
+      ],
+      "min": [
+        10.815850257873535,
+        -133.506103515625,
+        1478.0736083984375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 478164,
+      "componentType": 5126,
+      "count": 9143,
+      "max": [
+        0.99997818470001221,
+        0.99999362230300903,
+        0.99957770109176636
+      ],
+      "min": [
+        -0.99996817111968994,
+        -0.99971204996109009,
+        -0.99997144937515259
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 245632,
+      "componentType": 5126,
+      "count": 9143,
+      "max": [
+        0.98039215803146362,
+        0.55294120311737061,
+        0.55294120311737061,
+        1
+      ],
+      "min": [
+        0.9529411792755127,
+        0.52941179275512695,
+        0.52941179275512695,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 342804,
+      "componentType": 5125,
+      "count": 54846,
+      "max": [
+        9142
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 587880,
+      "componentType": 5126,
+      "count": 1737,
+      "max": [
+        62.662246704101562,
+        -120.14456939697266,
+        1537.5546875
+      ],
+      "min": [
+        31.947525024414062,
+        -160.99617004394531,
+        1480.72314453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 608724,
+      "componentType": 5126,
+      "count": 1737,
+      "max": [
+        0.99997228384017944,
+        0.99892884492874146,
+        0.99958842992782593
+      ],
+      "min": [
+        -0.99844199419021606,
+        -0.99546456336975098,
+        -0.99511772394180298
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 391920,
+      "componentType": 5126,
+      "count": 1737,
+      "max": [
+        1,
+        0.70980393886566162,
+        0.37254902720451355,
+        1
+      ],
+      "min": [
+        0.99215686321258545,
+        0.69803923368453979,
+        0.35686275362968445,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 562188,
+      "componentType": 5125,
+      "count": 10263,
+      "max": [
+        1736
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 629568,
+      "componentType": 5126,
+      "count": 13771,
+      "max": [
+        60.62103271484375,
+        18.218439102172852,
+        1583.576416015625
+      ],
+      "min": [
+        -1.6972410678863525,
+        -101.14003753662109,
+        1476.653076171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 794820,
+      "componentType": 5126,
+      "count": 13771,
+      "max": [
+        0.99989521503448486,
+        0.99981445074081421,
+        0.99958860874176025
+      ],
+      "min": [
+        -0.99998253583908081,
+        -0.99980592727661133,
+        -0.99956631660461426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 419712,
+      "componentType": 5126,
+      "count": 13771,
+      "max": [
+        0.94901961088180542,
+        0.99215686321258545,
+        0.75294119119644165,
+        1
+      ],
+      "min": [
+        0.50980395078659058,
+        0.90980392694473267,
+        0.45098039507865906,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 603240,
+      "componentType": 5125,
+      "count": 61905,
+      "max": [
+        13770
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 960072,
+      "componentType": 5126,
+      "count": 8789,
+      "max": [
+        62.705806732177734,
+        -90.475868225097656,
+        1549.18408203125
+      ],
+      "min": [
+        -2.2515969276428223,
+        -145.21696472167969,
+        1468.8287353515625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1065540,
+      "componentType": 5126,
+      "count": 8789,
+      "max": [
+        0.99990737438201904,
+        0.99917751550674438,
+        0.99972045421600342
+      ],
+      "min": [
+        -0.99996685981750488,
+        -0.99994844198226929,
+        -0.99974203109741211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 640048,
+      "componentType": 5126,
+      "count": 8789,
+      "max": [
+        0.84705883264541626,
+        0.99607843160629272,
+        0.85882353782653809,
+        1
+      ],
+      "min": [
+        0.47450980544090271,
+        0.78823530673980713,
+        0.70980393886566162,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 850860,
+      "componentType": 5125,
+      "count": 52785,
+      "max": [
+        8788
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1171008,
+      "componentType": 5126,
+      "count": 5627,
+      "max": [
+        55.963535308837891,
+        -90.227088928222656,
+        1507.4464111328125
+      ],
+      "min": [
+        -0.78083449602127075,
+        -174.41438293457031,
+        1420.68798828125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1238532,
+      "componentType": 5126,
+      "count": 5627,
+      "max": [
+        0.99986141920089722,
+        0.99862003326416016,
+        0.99977570772171021
+      ],
+      "min": [
+        -0.99997997283935547,
+        -0.9995800256729126,
+        -0.99961262941360474
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 780672,
+      "componentType": 5126,
+      "count": 5627,
+      "max": [
+        0.71764707565307617,
+        0.96078431606292725,
+        0.96078431606292725,
+        1
+      ],
+      "min": [
+        0.46666666865348816,
+        0.88235294818878174,
+        0.88235294818878174,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1062000,
+      "componentType": 5125,
+      "count": 31467,
+      "max": [
+        5626
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1306056,
+      "componentType": 5126,
+      "count": 6654,
+      "max": [
+        32.160442352294922,
+        -126.33586883544922,
+        1484.532470703125
+      ],
+      "min": [
+        -0.48847231268882751,
+        -183.33929443359375,
+        1427.171142578125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1385904,
+      "componentType": 5126,
+      "count": 6654,
+      "max": [
+        0.99958312511444092,
+        0.99970531463623047,
+        0.99983131885528564
+      ],
+      "min": [
+        -0.99986398220062256,
+        -0.99976372718811035,
+        -0.99831300973892212
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 870704,
+      "componentType": 5126,
+      "count": 6654,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        0.98823529481887817,
+        0.98823529481887817,
+        0.98823529481887817,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1187868,
+      "componentType": 5125,
+      "count": 39756,
+      "max": [
+        6653
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1465752,
+      "componentType": 5126,
+      "count": 4505,
+      "max": [
+        27.460647583007812,
+        -103.31436920166016,
+        1513.3814697265625
+      ],
+      "min": [
+        -1.4451837539672852,
+        -150.16445922851562,
+        1470.2508544921875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1519812,
+      "componentType": 5126,
+      "count": 4505,
+      "max": [
+        0.99977970123291016,
+        0.99931728839874268,
+        0.99984610080718994
+      ],
+      "min": [
+        -0.99987947940826416,
+        -0.99965018033981323,
+        -0.99986708164215088
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 977168,
+      "componentType": 5126,
+      "count": 4505,
+      "max": [
+        0.7921568751335144,
+        0.60784316062927246,
+        0.97254902124404907,
+        1
+      ],
+      "min": [
+        0.64705884456634521,
+        0.43529412150382996,
+        0.86666667461395264,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1346892,
+      "componentType": 5125,
+      "count": 27018,
+      "max": [
+        4504
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1573872,
+      "componentType": 5126,
+      "count": 757,
+      "max": [
+        17.930778503417969,
+        -150.78434753417969,
+        1526.844970703125
+      ],
+      "min": [
+        7.3322081565856934,
+        -164.64994812011719,
+        1497.8819580078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1582956,
+      "componentType": 5126,
+      "count": 757,
+      "max": [
+        0.99999529123306274,
+        0.99618989229202271,
+        0.99701219797134399
+      ],
+      "min": [
+        -0.99976199865341187,
+        -0.9979473352432251,
+        -0.99564266204833984
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1049248,
+      "componentType": 5126,
+      "count": 757,
+      "max": [
+        0.99215686321258545,
+        0.63529413938522339,
+        0.21960784494876862,
+        1
+      ],
+      "min": [
+        0.97647058963775635,
+        0.61568629741668701,
+        0.20392157137393951,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1454964,
+      "componentType": 5125,
+      "count": 4530,
+      "max": [
+        756
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1592040,
+      "componentType": 5126,
+      "count": 9703,
+      "max": [
+        20.27635383605957,
+        -119.73749542236328,
+        1537.1348876953125
+      ],
+      "min": [
+        -2.3164365291595459,
+        -172.35142517089844,
+        1497.5164794921875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1708476,
+      "componentType": 5126,
+      "count": 9703,
+      "max": [
+        0.99986374378204346,
+        0.99936854839324951,
+        0.99997931718826294
+      ],
+      "min": [
+        -0.99996471405029297,
+        -0.99970245361328125,
+        -0.99967533349990845
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1061360,
+      "componentType": 5126,
+      "count": 9703,
+      "max": [
+        0.87058824300765991,
+        1,
+        0.61568629741668701,
+        1
+      ],
+      "min": [
+        0.76470589637756348,
+        0.97647058963775635,
+        0.34509804844856262,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1473084,
+      "componentType": 5125,
+      "count": 54321,
+      "max": [
+        9702
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1824912,
+      "componentType": 5126,
+      "count": 51004,
+      "max": [
+        1.8256233930587769,
+        17.638050079345703,
+        1629.5941162109375
+      ],
+      "min": [
+        -2.1005616188049316,
+        -185.70625305175781,
+        1421.8759765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2436960,
+      "componentType": 5126,
+      "count": 51004,
+      "max": [
+        0.99999779462814331,
+        0.99993675947189331,
+        0.99997848272323608
+      ],
+      "min": [
+        -0.9999963641166687,
+        -0.999980628490448,
+        -0.9999539852142334
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1216608,
+      "componentType": 5126,
+      "count": 51004,
+      "max": [
+        1,
+        0.99607843160629272,
+        1,
+        1
+      ],
+      "min": [
+        0.68627452850341797,
+        0.61176472902297974,
+        0.74117648601531982,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1690368,
+      "componentType": 5125,
+      "count": 128070,
+      "max": [
+        51003
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3049008,
+      "componentType": 5126,
+      "count": 9793,
+      "max": [
+        46.886924743652344,
+        -126.52544403076172,
+        1533.5577392578125
+      ],
+      "min": [
+        -0.087497659027576447,
+        -183.73072814941406,
+        1463.887939453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3166524,
+      "componentType": 5126,
+      "count": 9793,
+      "max": [
+        0.99968183040618896,
+        0.99998700618743896,
+        0.99997693300247192
+      ],
+      "min": [
+        -0.99997806549072266,
+        -0.99984759092330933,
+        -0.99994522333145142
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2032672,
+      "componentType": 5126,
+      "count": 9793,
+      "max": [
+        0.98823529481887817,
+        0.64705884456634521,
+        0.74901962280273438,
+        1
+      ],
+      "min": [
+        0.87450981140136719,
+        0.50980395078659058,
+        0.63921570777893066,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2202648,
+      "componentType": 5125,
+      "count": 56412,
+      "max": [
+        9792
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "E-learning University Medical Center Groningen (https://sketchfab.com/eLearningUMCG)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/sagittal-cut-of-the-human-cranium-and-mandible-2-5e73a548332742c8bc722d5f14ae35f0",
+      "title": "Sagittal cut of the human cranium and mandible 2"
+    },
+    "generator": "Sketchfab-4.78.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2428296,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3284040,
+      "byteOffset": 2428296,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2189360,
+      "byteOffset": 5712336,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7901696,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.81899999999999995,
+            0.81899999999999995,
+            0.81899999999999995,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3200_BP9668_FMA52734_Frontal_bone1"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.86099999999999999,
+            0.86099999999999999,
+            0.86099999999999999,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3263_BP10109_FMA54738_Left_inferior_nasal_concha"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.7083757799,
+            0.68668531239999997,
+            0.68668531239999997,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3272_BP9837_FMA53648_Left_nasal_bone2"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.72305512890000001,
+            0.72305512890000001,
+            0.72305512890000001,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3274_BP10199_FMA52789_Left_parietal_bone"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            0.53947948899999998,
+            0.53947948899999998,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3281_BP9536_FMA52739_Left_temporal_bone"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.89626935340000002,
+            0.89626935340000002,
+            0.89626935340000002,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3287_BP9801_FMA52893_Left_zygomatic_bone"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.76052450469999999,
+            0.76052450469999999,
+            0.76052450469999999,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3309_BP10180_FMA52735_Occipital_bone1"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3394_BP9806_FMA52736_Sphenoid_bone"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.79910273799999998,
+            0.77582221829999998,
+            0.77582221829999998,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Extract13"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.76656141899999997,
+            0.76656141899999997,
+            0.76656141899999997,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ1261_BP5455_FMA55699_Left_first_upper_molar_tooth17"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3273_BP9484_FMA53656_Left_palatine_bone"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3265_BP9614_FMA53646_Left_lacrimal_bone"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.76154490931399998,
+            0.76154490931399998,
+            0.76154490931399998,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "FJ3199_BP10084_FMA52740_Ethmoid2"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Extract3"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.7912979403,
+            0.7912979403,
+            0.7912979403,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "PM3D_Cube3D12"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "FJ3200_BP9668_FMA52734_Frontal_bone1_FJ3200_BP9668_FMA52734_Frontal_bone1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3263_BP10109_FMA54738_Left_inferior_nasal_concha_FJ3263_BP10109_FMA54738_Left_inferior_nasal_concha_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 6,
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3272_BP9837_FMA53648_Left_nasal_bone2_FJ3272_BP9837_FMA53648_Left_nasal_bone2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 10,
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3274_BP10199_FMA52789_Left_parietal_bone_FJ3274_BP10199_FMA52789_Left_parietal_bone_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 14,
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3281_BP9536_FMA52739_Left_temporal_bone_FJ3281_BP9536_FMA52739_Left_temporal_bone_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 18,
+            "NORMAL": 17,
+            "POSITION": 16
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3287_BP9801_FMA52893_Left_zygomatic_bone_FJ3287_BP9801_FMA52893_Left_zygomatic_bone_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 22,
+            "NORMAL": 21,
+            "POSITION": 20
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3309_BP10180_FMA52735_Occipital_bone1_FJ3309_BP10180_FMA52735_Occipital_bone1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 26,
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 27,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3394_BP9806_FMA52736_Sphenoid_bone_FJ3394_BP9806_FMA52736_Sphenoid_bone_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 30,
+            "NORMAL": 29,
+            "POSITION": 28
+          },
+          "indices": 31,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Extract13_Extract13_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 34,
+            "NORMAL": 33,
+            "POSITION": 32
+          },
+          "indices": 35,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ1261_BP5455_FMA55699_Left_first_upper_molar_tooth17_FJ1261_BP5455_FMA55699_Left_first_upper_molar_tooth17_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 38,
+            "NORMAL": 37,
+            "POSITION": 36
+          },
+          "indices": 39,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3273_BP9484_FMA53656_Left_palatine_bone_FJ3273_BP9484_FMA53656_Left_palatine_bone_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 42,
+            "NORMAL": 41,
+            "POSITION": 40
+          },
+          "indices": 43,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3265_BP9614_FMA53646_Left_lacrimal_bone_FJ3265_BP9614_FMA53646_Left_lacrimal_bone_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 46,
+            "NORMAL": 45,
+            "POSITION": 44
+          },
+          "indices": 47,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FJ3199_BP10084_FMA52740_Ethmoid2_FJ3199_BP10084_FMA52740_Ethmoid2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 50,
+            "NORMAL": 49,
+            "POSITION": 48
+          },
+          "indices": 51,
+          "material": 12,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Extract3_Extract3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 54,
+            "NORMAL": 53,
+            "POSITION": 52
+          },
+          "indices": 55,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PM3D_Cube3D12_PM3D_Cube3D12_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 58,
+            "NORMAL": 57,
+            "POSITION": 56
+          },
+          "indices": 59,
+          "material": 14,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -0.0027856978122144938,
+        0.99748194217681885,
+        0.070866577327251434,
+        0,
+        -0.03894776850938797,
+        0.070704855024814606,
+        -0.99673664569854736,
+        0,
+        -0.99923735857009888,
+        -0.0055367019958794117,
+        0.038652732968330383,
+        0,
+        -111.45014190673828,
+        -1454.24658203125,
+        -1608.0823974609375,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "bb3b95a89c5148ec92ab6fd5f9ca97be.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "FJ3200_BP9668_FMA52734_Frontal_bone1"
+    },
+    {
+      "mesh": 0,
+      "name": "FJ3200_BP9668_FMA52734_Frontal_bone1_FJ3200_BP9668_FMA52734_Frontal_bone1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "FJ3263_BP10109_FMA54738_Left_inferior_nasal_concha"
+    },
+    {
+      "mesh": 1,
+      "name": "FJ3263_BP10109_FMA54738_Left_inferior_nasal_concha_FJ3263_BP10109_FMA54738_Left_inferior_nasal_concha_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "FJ3272_BP9837_FMA53648_Left_nasal_bone2"
+    },
+    {
+      "mesh": 2,
+      "name": "FJ3272_BP9837_FMA53648_Left_nasal_bone2_FJ3272_BP9837_FMA53648_Left_nasal_bone2_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "FJ3274_BP10199_FMA52789_Left_parietal_bone"
+    },
+    {
+      "mesh": 3,
+      "name": "FJ3274_BP10199_FMA52789_Left_parietal_bone_FJ3274_BP10199_FMA52789_Left_parietal_bone_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "FJ3281_BP9536_FMA52739_Left_temporal_bone"
+    },
+    {
+      "mesh": 4,
+      "name": "FJ3281_BP9536_FMA52739_Left_temporal_bone_FJ3281_BP9536_FMA52739_Left_temporal_bone_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "FJ3287_BP9801_FMA52893_Left_zygomatic_bone"
+    },
+    {
+      "mesh": 5,
+      "name": "FJ3287_BP9801_FMA52893_Left_zygomatic_bone_FJ3287_BP9801_FMA52893_Left_zygomatic_bone_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "FJ3309_BP10180_FMA52735_Occipital_bone1"
+    },
+    {
+      "mesh": 6,
+      "name": "FJ3309_BP10180_FMA52735_Occipital_bone1_FJ3309_BP10180_FMA52735_Occipital_bone1_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "FJ3394_BP9806_FMA52736_Sphenoid_bone"
+    },
+    {
+      "mesh": 7,
+      "name": "FJ3394_BP9806_FMA52736_Sphenoid_bone_FJ3394_BP9806_FMA52736_Sphenoid_bone_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "Extract13"
+    },
+    {
+      "mesh": 8,
+      "name": "Extract13_Extract13_0"
+    },
+    {
+      "children": [
+        23
+      ],
+      "name": "FJ1261_BP5455_FMA55699_Left_first_upper_molar_tooth17"
+    },
+    {
+      "mesh": 9,
+      "name": "FJ1261_BP5455_FMA55699_Left_first_upper_molar_tooth17_FJ1261_BP5455_FMA55699_Left_first_upper_molar_tooth17_0"
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "FJ3273_BP9484_FMA53656_Left_palatine_bone"
+    },
+    {
+      "mesh": 10,
+      "name": "FJ3273_BP9484_FMA53656_Left_palatine_bone_FJ3273_BP9484_FMA53656_Left_palatine_bone_0"
+    },
+    {
+      "children": [
+        27
+      ],
+      "name": "FJ3265_BP9614_FMA53646_Left_lacrimal_bone"
+    },
+    {
+      "mesh": 11,
+      "name": "FJ3265_BP9614_FMA53646_Left_lacrimal_bone_FJ3265_BP9614_FMA53646_Left_lacrimal_bone_0"
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "FJ3199_BP10084_FMA52740_Ethmoid2"
+    },
+    {
+      "mesh": 12,
+      "name": "FJ3199_BP10084_FMA52740_Ethmoid2_FJ3199_BP10084_FMA52740_Ethmoid2_0"
+    },
+    {
+      "children": [
+        31
+      ],
+      "name": "Extract3"
+    },
+    {
+      "mesh": 13,
+      "name": "Extract3_Extract3_0"
+    },
+    {
+      "children": [
+        33
+      ],
+      "name": "PM3D_Cube3D12"
+    },
+    {
+      "mesh": 14,
+      "name": "PM3D_Cube3D12_PM3D_Cube3D12_0"
+    },
+    {
+      "children": [
+        35
+      ],
+      "matrix": [
+        0.99192408049490211,
+        -0.066276989835683753,
+        -0.1081387033058174,
+        0,
+        0.10606989129247704,
+        -0.03398690591550424,
+        0.99377767553285912,
+        0,
+        -0.069539892835300182,
+        -0.99722226752344989,
+        -0.026682437292039562,
+        0,
+        -169111.75,
+        11215.6298828125,
+        19964.017578125,
+        1
+      ],
+      "name": "ZBrushDefault"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
